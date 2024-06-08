@@ -3,7 +3,7 @@ package lyra2re2
 import (
     "golang.org/x/crypto/sha3"
 
-    "github.com/pedroalbanese/bmw"
+    "github.com/pedroalbanese/bmw256"
     "github.com/pedroalbanese/skein"
     "github.com/pedroalbanese/blake256"
     "github.com/pedroalbanese/cubehash256"
